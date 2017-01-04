@@ -5,6 +5,7 @@
 */
 
 
+//<div id="tip"><span></span></div>
 function tip(val,time){
 	if(time==null){
 		time = 1000;
